@@ -1,15 +1,11 @@
 ---
 title: "Lab 9"
+author: "Liying Deng"
 format: html
 editor: "visual"
 embed-resources: true
 ---
 
-
-```{r}
-install.packages("microbenchmark")
-install.packages("parallel")
-```
 # Problem 1: Vectorization
 ```{r}
 # Load necessary library for benchmarking
